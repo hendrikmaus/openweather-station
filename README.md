@@ -9,6 +9,7 @@
   - Humidty
   - Atmospheric pressure
   - Wind speed
+  - Wind direction
   - Rain amount
 - Solar Powered
 - Connectivity
